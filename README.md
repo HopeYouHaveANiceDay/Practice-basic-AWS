@@ -2,6 +2,7 @@
 #Only the README.md has information and includes the steps to install the AWS CLI and use basic AWS services. Thanks
 
 #Reference: https://youtu.be/c3Cn4xYfxJY?si=m4LpdAaeJxxCJxVY 
+
 #search and install aws cli, type in terminal instead of using gitpod
 #curl "https://awscli.amazonaws.com/AWSCLIV2.pkg" -o "AWSCLIV2.pkg" (for Macbook)
 #sudo installer -pkg AWSCLIV2.pkg -target /
